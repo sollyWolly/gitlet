@@ -1,7 +1,7 @@
 # Gitlet: A Minimalist Version Control System
 Gitlet is a lightweight and minimalist version control system designed to help developers efficiently track changes in their codebase and collaborate with others. Inspired by Git, Gitlet aims to provide a simplified yet powerful version control solution for projects of all sizes.
 
-Key Features:
+##Key Features:
 Effortless Setup: Gitlet is easy to set up, making it accessible for both beginners and experienced developers. Initialize your repository with a single command and start tracking your changes instantly.
 
 Intuitive Command Line Interface: Gitlet offers a user-friendly command line interface, making it straightforward to commit, branch, merge, and manage your project's history.
