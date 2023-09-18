@@ -18,6 +18,4 @@ Gitlet is a lightweight and minimalist version control system designed to help d
 
 **Customizable Workflow:** Gitlet is highly customizable, allowing you to tailor your version control workflow to your project's unique needs.
 
-
-
-
+![gitlet-design](https://github.com/sollyWolly/gitlet/assets/55569594/bf0984b6-41cb-4527-b14b-fa1241f3455a)
