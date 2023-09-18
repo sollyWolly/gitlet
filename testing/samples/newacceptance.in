@@ -1,0 +1,42 @@
+I setup1.inc
++ c.txt wug.txt
++ d.txt wug.txt
++ h.txt wug2.txt
+> add c.txt
+<<<
+> add h.txt
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+f.txt
+g.txt
+c.txt
+h.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+d.txt
+
+<<<
+> commit "bingo"
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+d.txt
+
+<<<

@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/solcheung/cs61b-software/lib/emacs/**/*.jar",
+        "/Users/solcheung/cs61b-software/lib/gjdb.jar",
+        "/Users/solcheung/cs61b-software/lib/graph-inputs/**/*.jar",
+        "/Users/solcheung/cs61b-software/lib/hamcrest-core-1.3.jar",
+        "/Users/solcheung/cs61b-software/lib/jpt.jar",
+        "/Users/solcheung/cs61b-software/lib/junit-4.12.jar",
+        "/Users/solcheung/cs61b-software/lib/tools.jar",
+        "/Users/solcheung/cs61b-software/lib/ucb-checkstyle.jar",
+        "/Users/solcheung/cs61b-software/lib/ucb-f2007.jar",
+        "/Users/solcheung/cs61b-software/lib/ucb.jar"
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m"
+}
